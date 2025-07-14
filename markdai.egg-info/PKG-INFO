@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: markdai
+Version: 0.1.0
+Summary: Your knowledge, structured.
+Author-email: zTgx <beautifularea@gmail.com>
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Dynamic: license-file

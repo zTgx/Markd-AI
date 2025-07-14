@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+markdai/__init__.py
+markdai/core.py
+markdai/llm.py
+markdai/logger.py
+markdai.egg-info/PKG-INFO
+markdai.egg-info/SOURCES.txt
+markdai.egg-info/dependency_links.txt
+markdai.egg-info/top_level.txt

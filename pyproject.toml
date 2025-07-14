@@ -1,17 +1,22 @@
 [project]
 name = "markdai"
 version = "0.1.0"
-description = "Convert PDF annotations to Markdown using AI"
+description = "Your knowledge, structured."
 authors = [{ name = "zTgx", email = "beautifularea@gmail.com" }]
 license = { text = "MIT" }
 dependencies = [
     # "PyMuPDF>=1.23.0",
     # "transformers>=4.30.0",
 ]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
 
-[project.scripts]
-markdai = "markdai.cli.main:main"
+# [project.scripts]
+# markdai = "markdai.cli.main:main"
 
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
+# [build-system]
+# requires = ["setuptools>=61.0"]
+# build-backend = "setuptools.build_meta"
